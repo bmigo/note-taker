@@ -4,4 +4,4 @@ const {
     readFromFile,
     readAndAppend,
     writeToFile,
-} = require('../helpers')
+} = require('../helpers/fsUtils');
